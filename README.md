@@ -5,7 +5,7 @@ A template for readme's on github.
 
 ### Screenshots
 
-![image title](http://dummyimage.com/600x400/000/fff)
+![image title](http://placehold.it/650x400)
 
 ### Examples
 
